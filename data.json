@@ -1,0 +1,23 @@
+{
+  "name": "Blits Kids",
+  "avatar": "./blitree/public/Tag.jpg",
+  "links": [
+    {
+      "title": "Whatsapp",
+      "href": "https://wa.me/5555839152944"
+    },
+    {
+      "title": "Vercel.com",
+      "href": "https://vercel.com/dashboard",
+      "image": "./public/favicon.ico"
+    },
+    {
+      "title": "Instagram",
+      "href": "https://www.instagram.com/blits_kids/"
+    },
+    {
+      "title": "Github",
+      "href": "https://github.com/BlitsKids"
+    }
+  ]
+}
